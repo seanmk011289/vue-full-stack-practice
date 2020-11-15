@@ -1,0 +1,19 @@
+{
+  "name": "vue-full-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanmk011289/vue-full-stack-practice.git"
+  },
+  "author": "Sean Kennedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanmk011289/vue-full-stack-practice/issues"
+  },
+  "homepage": "https://github.com/seanmk011289/vue-full-stack-practice#readme"
+}
